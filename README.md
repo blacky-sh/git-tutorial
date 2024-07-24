@@ -1,3 +1,3 @@
-# Learning Git
+# A mini Notes webApp made by sheehab
 
-I made this repo while I was learning git and GitHub. there may not be anything relevant. 
+I plan to build a Notes WebApp using react that is capable of Creating, reading, Updating and Deleting a text.
